@@ -1,0 +1,22 @@
+{
+  "name": "minjung-ui",
+  "version": "1.0.0",
+  "description": "minjung's component package",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baejjang2 <people-kim@starlight-sangdan.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9mynamemj7/ui.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.2.45",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
